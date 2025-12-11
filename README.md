@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.alvarogilmunoz.com">
-    <img src="https://www.alvarogilmunoz.com/opengraph-image.png" width="100%" alt="Banner Álvaro Gil Muñoz" />
+    <img src="https://www.alvarogilmunoz.com/opengraph-image.png?v=2" width="100%" alt="Banner Álvaro Gil Muñoz" />
   </a>
   
   <br />
