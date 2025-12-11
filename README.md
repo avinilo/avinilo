@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.alvarogilmunoz.com">
-    <img src="https://www.alvarogilmunoz.com/opengraph-image.png?v=2" width="100%" alt="Banner Álvaro Gil Muñoz" />
+    <img src="https://www.alvarogilmunoz.com/opengraph-image.png?v=3" width="100%" alt="Banner Álvaro Gil Muñoz" />
   </a>
   
   <br />
@@ -45,13 +45,6 @@
 - 🤖 **AIO/GEO**: Optimizing brands to be found by AI agents (ChatGPT, Gemini).
 - ⚡ **Performance**: Building web apps with 100/100 Lighthouse scores.
 - 🔮 **Digital Transformation**: Automating business processes with AI.
-
-<div align="center">
-  <h3>📈 GitHub Stats</h3>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=avinilo&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748b&icon_color=2563EB" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinilo&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748b" height="150" alt="languages graph" />
-</div>
 
 <br />
 
