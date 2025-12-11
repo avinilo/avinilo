@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Website-alvarogilmunoz.com-blue?style=for-the-badge&logo=google-chrome" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/alvaro-gil-73b89b3a0/">
+    <a href="https://www.linkedin.com/in/%C3%A1lvaro-gil-mu%C3%B1oz-73b89b3a0/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
     </a>
     &nbsp;
